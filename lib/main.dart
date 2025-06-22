@@ -2,7 +2,7 @@ import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
-import 'package:spare_waka/splash_screen.dart';
+import 'package:spare_waka/presentation/auth/view/splash_screen.dart';
 import 'applications/auth/authentication_cubit.dart';
 import 'firebase_options.dart';
 import 'ioc.dart';
